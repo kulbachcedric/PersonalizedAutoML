@@ -1,6 +1,6 @@
 # personalized automated machine learning
 
-This repository are the results of the paper published on ECAI '19.
+This repository are the results for our approach towards a personalized automated machine learning approach published on ECAI '20.
 
 ```
 @inproceedings{DBLP:conf/ecai/KulbachPT20,
